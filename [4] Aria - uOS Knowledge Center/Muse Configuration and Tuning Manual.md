@@ -73,8 +73,8 @@ Muse configurations are stored in YAML format within uOS at:
 /uos/muse/config/override/muse_profile.yaml
 
 <details>
-<summary><strong>For example, here is a deployable Muse config File:</strong></summary>
-### Example:
+<summary><strong>For example, here is a deployable Muse config File in yaml:</strong></summary>
+
 ```yaml
 muse:
   # ===========================================================
@@ -424,6 +424,7 @@ muse:
     Muse_revision: "1.0.4"
     environment_tested: ["uOS 0.9.2.3", "Aria-TST"]
     checksum: "b7d4c28e13fa9224"
+```
 </details>
 
 ## Behavioral Modifiers
@@ -452,7 +453,7 @@ For realism, `emotion_noise_floor` (typically 0.04–0.08) introduces stochastic
 
 Developers can use `regulation_model` fields such as `empathy_amplification_curve` and `anger_dampening_function` to refine nonlinear affective behavior. A logarithmic empathy curve enhances subtlety in empathic response, while an inverse-tanh dampener for anger ensures assertiveness without escalation. Together, these form the emotional “physics” of the Muse — governing how it feels, recovers, and learns.
 
-## Speech and Expression Settings
+## Speech & Expression Settings
 
 Speech and expression define the audible and visible embodiment of the Muse — this is facilitated primarily through TTS and optics parameters on Aria. These are primarily configured under `TTS_rider`, `TTS_pretrain`, and `expression_schema`.
 
@@ -488,10 +489,7 @@ To deploy, sign in to your **Vicarious Console** and navigate to:
 /uos/muse/config/override/
 
 <details>
-<summary><strong>Workflow:</strong></summary>
-Upload your validated `muse_profile.yaml` to this directory online using the **Vicarious Console**. Once uploaded, uOS performs automatic schema validation, version matching, and dependency binding. A confirmation window will appear once the Muse is live and active on Aria hardware.  
-
-Deployment may also be triggered remotely via:
+<summary><strong>Upload your validated `muse_profile.yaml` to this directory online using the **Vicarious Console**. Once uploaded, uOS performs automatic schema validation, version matching, and dependency binding. A confirmation window will appear once the Muse is live and active on Aria hardware. Deployment may also be triggered remotely via:</strong></summary>
     ```bash
     uosc push muse_profile.yaml --device <ARIA_ID> --commit
 </details>
@@ -594,15 +592,20 @@ Vicarious Devices encourages open collaboration and refinement across all aspect
 3. Describe the behavioral, expressive, or performance anomaly with context.  
 4. If applicable, include emotional or system trace logs:
 
-/uos/logs/muse/emotion_trace.log
-/uos/logs/muse/system_event.log
+<details>
+<summary><strong>Emotion Trace Locator</strong></summary>
+    /uos/logs/muse/emotion_trace.log
+</details>
+<details>
+<summary><strong>System Event Locator</strong></summary>
+    /uos/logs/muse/system_event.log
+</details>
 
 Issues are triaged by the **Vicarious Devices Engineering Team**, and critical safety or performance anomalies are prioritized for immediate review.
 
 ### **Community Contribution**
 
-You can contribute or propose schema enhancements through GitHub:  
-[github.com/VicariousDevices/](https://github.com/VicariousDevices/)
+You can contribute or propose schema enhancements through GitHub: [github.com/VicariousDevices/](https://github.com/VicariousDevices/)
 
 Contributors are invited to share:
 - Alternative emotional or behavioral models  
