@@ -1,5 +1,5 @@
 # Developer SDK & API Documentation (All TST Configurations)
-*Part of the [uOS Knowledge Center](https://github.com/Vicarious-Devices/Manual)*  
+*Part of the [uOS Knowledge Center](https://github.com/Vicarious-Devices/Manual/tree/main/%5B4%5D%20Aria%20-%20uOS%20Knowledge%20Center)*  
 _Last updated: October 5, 2025_
 
 ---
