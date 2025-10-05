@@ -6,7 +6,7 @@ _Last updated: October 5, 2025_
 
 ## Overview
 
-The **Aria Muse Configuration Module (MCM)** allows developers to externally define, train, and calibrate the emotional, conversational, and behavioral characteristics of test Muses for instancing in uOS.  
+The **Aria Muse Configuration and Tuning Manual** allows developers to externally define, train, and calibrate the emotional, conversational, and behavioral characteristics of test Muses for instancing in uOS.  
 
 This is an external toolkit, intended to guide plugin deployments to the *Interaction layer of uOS*, for pretrained and aligned Muse temperament, demeanor, historical context, sensitivity, and behavioral inflections within the specific intent of each deployment. Each Muse retains degrees of autonomy maintained in the Interaction Layer of uOS, reflecting both environmental telemetry and the engagements of its creator.
 
