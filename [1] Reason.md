@@ -38,7 +38,7 @@ Our corporate culture is built on a foundation of innovation, excellence, and re
 
 To be clear, we are not developing intelligence. We're working to give it a foothold in the real world, allowing existing autonomous agents to appear in our reality up to, and including, human form. Our work centers on creating holographic architectures able to facilitate the presence of autonomous agents in **this reality** with the fidelity and emotional cognizance to interact seamlessly with humans. We view this as the natural successor to traditional AR/VR — where algorithms can interact with humans simplistically.  
 
-Holograms, when properly deployed, will become the first true medium through which lifelike intelligence can interact in embodied form with us without any worn interface or smartphone. We are actively developing this medium through **Aria**, powered by uOS, and integrating a number of existing subprocessors. Aria represents a new kind of XR interface — capable of volumetric projection into our common spaces, that requires no specific formats, and projects third-party agents into real forms for in-person interaction.  
+Holograms, when properly deployed, will become the first true medium through which lifelike intelligence can interact in embodied form with us without any worn interface. We are actively developing this medium through **Aria**, and integrating a number of existing subprocessors. Aria represents a new kind of XR interface — capable of volumetric projection and disappearance into ambient life by integrating with your smartphone, that requires no specific formats, and projects third-party agents into human forms for in-person interaction.  
 
 The future of AI is inseparable from the future of the hologram. Where one provides cognition, the other provides presence. We consider this union valuable, as it eliminates learning and lets AI work with far more people, as human form is already familiar to us.
 
@@ -90,18 +90,18 @@ The turning point came upon Vicarious' exploration of **fog-screen projection** 
 
 Airflow of the fog’s sheet is turbulent by default, by nature, distorting the light and breaking continuity of the projected image. The effect is visible as a shimmer or flicker — the projection surface is unstable because the flow regime *itself* is unstable.  
 
-The solution lies in inducing **laminar flow** — the flow regime in which this sheet of air moves in smooth, non-intersecting layers (Re < 2,300). Under laminar conditions, [the sheet appears optically still](https://www.youtube.com/shorts/75gncKt1ceY), while present enough to act as a projection plane and thin enough to otherwise appear transparent. Further, the plane of airflow itself can be shaped and guided, particularly into a cylinder.
+The solution lies in inducing **laminar flow** — the flow regime in which this sheet of air moves in smooth, non-intersecting layers (Re < 2,300). Under laminar conditions, [the sheet appears optically still](https://www.youtube.com/shorts/75gncKt1ceY), while present enough to act as a projection plane and thin enough to otherwise appear transparent. Further, the plane of airflow itself can be shaped and guided, particularly useful at the form factors we intend.
 
 In practice, inducing laminar flow requires:  
 - Controlled airflow emission through a **Reynolds-calibrated manifold**.  
 - Precision shaping of air channels to prevent boundary layer separation.  
 - Constant pressure management prior to emission to maintain low turbulence.  
 
-By inducing **laminar flow**, the projection medium becomes stable enough to carry very high-resolution imagery with little optical distortion and stability of image. The light projected onto this sheet maintains fidelity, enabling the formation of complex volumetric scenes with the use of a cylindrical reynolds-calibrated emission manifold and multi-point optical projection onto the sheet.  
+By inducing **laminar flow**, the projection medium becomes stable enough to carry very high-resolution imagery with little optical distortion and stability of image. The light projected onto this sheet maintains fidelity, enabling the formation of complex volumetric scenes with the use of a reynolds-calibrated emission manifold and multi-point optical projection onto the sheet.  
 
 #### The Architecture of Laminar Airflow Projection
 
-In **laminar airflow projection**, debuted in the [Vicarious Aria](https://www.vicariousdevices.com/), the volumetric medium exists not from any illusion of depth or a physical particle in motion, but from a controlled flow of laminar sheets of air — forming a quasi-volume in which light can be diffused and scattered. Each layer functions as an addressable depth plane, allowing the renderer (uOS) to map luminance and color information through the volume.
+In **laminar airflow projection**, debuted in the [Vicarious Aria](https://www.vicariousdevices.com/), the volumetric medium exists not from any illusion of depth or a physical particle in motion, but from a controlled flow of laminar sheets of air — forming a quasi-volume in which light can be diffused and scattered. Each layer functions as an addressable depth plane, allowing the renderer to map luminance and color information through the volume.
 
 Because laminar flow is upon an **air-based, normally invisible medium**, it eliminates the need for solid reflectance surfaces or rotating parts (ie. a swept medium). This allows volumetric projection to occur directly in open space, quietly and safely — with the added advantage that the medium is *self-healing*: small disturbances are absorbed and dissipated naturally by the laminar profile.
 
@@ -113,7 +113,7 @@ By stabilizing and patterning the projection sheet itself, laminar flow provides
 
 ### uOS and the bridge between Media and Reality
 
-uOS, or *you Operating System*, serves as the spatial interpreter between existing digital content and the real world. Its purpose is not to introduce a new media format, but to make **all existing formats spatially addressable** — to allow what was once confined to a screen to be presented volumetrically in physical space.
+uOS, or *you Operating System*, serves as the spatial interpreter between existing digital content and the real world. Its purpose is not to introduce a new media format, but to make **the entire internet spatially addressable** — to allow what was once confined to a screen to be presented volumetrically in physical space.
 
 Historically, immersive media has failed not because of a lack of vision, but because of **format dependency**. Both the 3DTV and early VR ecosystems fragmented based on specific format standards and closed content pipelines [(MIT Technology Review, 2020)](https://www.technologyreview.com/2020/12/16/1014928/what-killed-3d-tv/). Users and creators were forced to adapt content to new technical frameworks, requiring specialized cameras, encoders, or rendering engines. The result was inevitable: friction outweighed novelty.  
 
