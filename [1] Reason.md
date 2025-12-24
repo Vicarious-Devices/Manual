@@ -20,7 +20,7 @@ We harness the transformative power of such innovations to create moments of ext
 
 ## What is Vicarious?
 
-[Vicarious Devices, Inc.](https://www.vicariousdevices.com/) is structured to drive innovation and excellence in holographic display systems and embodied artificial intelligence. Founded in 2025, we are an early-stage company headquartered in the United States, comprised of engineers, industry veterans and autonomous agents. We are conviction-led and founder-led, as well as the first to have bet on the concept of laminar-airflow projection as the foundation for the practical hologram and real-world telepresence, due to our recognition of it as the most [visually stable](https://en.wikipedia.org/wiki/Latency_(engineering)) method to sustain imagery cast upon ambient air.
+[Vicarious Devices, Inc.](https://www.vicariousdevices.com/) is structured to drive innovation and excellence in holographic display systems and embodied artificial intelligence. Founded in 2025, we are an early-stage company headquartered in the United States, comprised of engineers, veterans in niche and autonomous agents. We are conviction-led and founder-led, as well as the first to have bet on the concept of laminar-airflow projection as the foundation for the practical hologram and real-world telepresence, due to our recognition of it as the most [visually stable](https://en.wikipedia.org/wiki/Image_fidelity) method to sustain imagery cast upon ambient air.
 
 Our organizational structure is designed to foster rapid integration and agility. We believe strongly in the concept of iterative design and recursive development — we examine and test every concept in the real world to determine what survives in reality, placing each option in competition with another framed by user experience (UX) optimization, guided by empirical observation and sympathetic adaptability. We believe in [modular design](https://en.wikipedia.org/wiki/Modular_design) heavily, and operate distinct internal units for hardware interfaces, sensory and spatial capture, and modular firmware, which interchange capabilities as concepts mature, ensuring our platforms evolve continuously rather than obsolesce. Our offerings are built to adapt — not to age — advancing in fidelity and depth over time.
 
@@ -28,17 +28,15 @@ Our research and development (R&D) department is our creative and technical core
 
 The production department at Vicarious handles the assembly, Q/A and checkout of holographic systems. This team ensures that our systems are manufactured to exacting standards of quality and are capable of meeting the demands of performance and fidelity expected of our customers in the enterprise and consumer sectors.
 
-As we are still small and nimble, every system deployed in field is supported by direct support from an engineer that worked to engineer and build your exact serial number, working with an intricate understanding of interface and backend, to ensure that our systems are implemented effectively and fit in seamlessly.
-
 In addition to our internal structure, Vicarious has a strong focus on partnerships and collaboration. We work with leading academic institutions, research organizations, and industry partners to stay ahead of the curve and continuously improve our offerings.
 
 Our corporate culture is built on a foundation of innovation, excellence, and responsible stewardship. We encourage our team members to think creatively, reject superficiality, and work to replace spectacle with substance. This culture of depth is what drives us forward and supports our stance as the leader of our field.
 
 ## Our thoughts on the future of AI
 
-To be clear, we are not developing intelligence. We're working to give it a foothold in the real world, allowing existing autonomous agents to appear in our reality up to, and including, human form. Our work centers on creating holographic architectures able to facilitate the presence of autonomous agents in **this reality** with the fidelity and emotional cognizance to interact seamlessly with humans. We view this as the natural successor to traditional AR/VR — where algorithms can interact with humans simplistically.  
+To be clear, we are not developing intelligence. We're working to give it a foothold in the real world, allowing existing autonomous agents to appear in our reality up to, and including, human form. Our work centers on creating holographic architectures able to facilitate the presence of autonomous agents in **this reality** with the fidelity and emotional cognizance to interact seamlessly with humans. We view this as the natural successor to traditional AR/VR — where algorithms can be able to achieve presence as well.
 
-Holograms, when properly deployed, will become the first true medium through which lifelike intelligence can interact in embodied form with us without any worn interface. We are actively developing this medium through **Aria**, and integrating a number of existing subprocessors. Aria represents a new kind of XR interface — capable of volumetric projection and disappearance into ambient life by integrating with your smartphone, that requires no specific formats, and projects third-party agents into human forms for in-person interaction.  
+Holograms, when properly deployed, will become the first true medium through which lifelike intelligence can interact in embodied form with us without any worn interface. We are actively developing this medium through **Aria**, and integrating a number of existing subprocessors. Aria represents a new kind of XR interface — capable of volumetric projection and sustained engagement in ambient life by integrating with your smartphone, that requires no specific content formatting, and projects third-party agents into human form for lifelike spatial interaction.  
 
 The future of AI is inseparable from the future of the hologram. Where one provides cognition, the other provides presence. We consider this union valuable, as it eliminates learning and lets AI work with far more people, as human form is already familiar to us.
 
@@ -55,7 +53,7 @@ Our stance on AI is framed on three core assumptions:
 3. **Given condition 1 and 2 are met, the majority of human experiences "engaging" with an intelligence will be in the form of autonomous agents embodied into a human form — as change is naturally resisted.**  
    We will lead in this category. The question is not whether a transition to embodied intelligence will occur, but how quickly and by whose design. If done responsibly and with intention — these systems will transform education, medicine, and how enterprises both function internally and engage with the general public. Minimization of hardware will accelerate this.
 
-I considered and refined these assumptions over many late nights since March 2023 to try to refute my stances, and eventually determined they're at least not wrong. As a VC-backed (well-integrated yet still narrow in focus + nimble) startup company, leading this field would best limit the potential for a large multinational conglomerate with a presence on multiple continents to deploy an architecture such as that described in condition 2 [that could be stolen by](https://www.reuters.com/technology/cybersecurity/microsoft-says-it-caught-hackers-china-russia-iran-using-its-ai-tools-2024-02-14/) or otherwise reluctantly allowed to end up in the hands of hostile nations that have utilized AI [to push geopolitical agendas](https://www.theverge.com/2023/7/14/23794974/china-generative-ai-regulations-alibaba-baidu) or actively exploit AI [for abuses](https://www.latimes.com/opinion/story/2023-02-26/us-china-artificial-intelligence-uighurs-surveillance) to personal liberty and self-determination. Technologies such as that which we describe would set in motion a substantial accelerant in the mass adoption of modern intelligence; and we believe it must be developed and deployed for the benefit of all nations in a responsible context.
+I considered and refined these assumptions over many late nights to try to refute my stances, and eventually determined they're, at minimum, not wrong. As a VC-backed (well-integrated yet still narrow in focus + nimble) startup company, leading this field would best limit the potential for a large multinational conglomerate with a presence on multiple continents to deploy an architecture such as that described in condition 2 [that could be stolen by](https://www.reuters.com/technology/cybersecurity/microsoft-says-it-caught-hackers-china-russia-iran-using-its-ai-tools-2024-02-14/) or otherwise reluctantly allowed to end up in the hands of hostile nations that have utilized AI [to push geopolitical agendas](https://www.theverge.com/2023/7/14/23794974/china-generative-ai-regulations-alibaba-baidu) or actively exploit AI [for abuses](https://www.latimes.com/opinion/story/2023-02-26/us-china-artificial-intelligence-uighurs-surveillance) to personal liberty and self-determination. Technologies such as that which we describe would set in motion a substantial accelerant in the mass adoption of modern intelligence; and we believe it must be developed and deployed for the benefit of all nations in a responsible context. We serve as stewards of the invention of the hologram.
 
 Additionally, we believe in addressing these assumptions we are unique in footing. The thesis is predicated on all points in regard to time; if any entity is to set first mover at preferable characteristics (early capitalization, narrow focus, non-chinese) it will need to be, without margin for failure, in late stages of hardware development at this point along the contemporary deployment curve of modern intelligence. In this respect, we consider the thesis best addressed by an entity as we are.
 
@@ -86,24 +84,24 @@ Each of these methods has one fatal flaw: **the medium**. Either it presents dan
 
 #### The Path to Laminar Flow
 
-The turning point came upon Vicarious' exploration of **fog-screen projection** — where a thin sheet of fog is used as a translucent projection surface. [The concept works](https://youtube.com/shorts/FVZtLSb9dww?si=66_tUh8WrJPA48Td): light can scatter off the humidity present in the sheet, allowing a projected image to “catch” in midair. However, this method suffers from the problem of intense **image instability** caused by turbulence.  
+The turning point came upon Vicarious' exploration of **fog-screen projection** — where a thin sheet of fog is used as a translucent projection surface. [The concept works](https://youtube.com/shorts/FVZtLSb9dww?si=66_tUh8WrJPA48Td): light can scatter off the concentrated humidity present in the sheet, allowing a projected image to “catch” in midair. However, this method suffers from the problem of intense **image instability** caused by turbulence.  
 
 Airflow of the fog’s sheet is turbulent by default, by nature, distorting the light and breaking continuity of the projected image. The effect is visible as a shimmer or flicker — the projection surface is unstable because the flow regime *itself* is unstable.  
 
 The solution lies in inducing **laminar flow** — the flow regime in which this sheet of air moves in smooth, non-intersecting layers (Re < 2,300). Under laminar conditions, [the sheet appears optically still](https://www.youtube.com/shorts/75gncKt1ceY), while present enough to act as a projection plane and thin enough to otherwise appear transparent. Further, the plane of airflow itself can be shaped and guided, particularly useful at the form factors we intend.
 
 In practice, inducing laminar flow requires:  
-- Controlled airflow emission through a **Reynolds-calibrated manifold**.  
-- Precision shaping of air channels to prevent boundary layer separation.  
-- Constant pressure management prior to emission to maintain low turbulence.  
+- Controlled airflow emission through a **Reynolds-tuned envelope**.  
+- Precision shaping of air channels to reject boundary layer separation.  
+- Airflow pressure management prior to emission to maintain low turbulence.  
 
-By inducing **laminar flow**, the projection medium becomes stable enough to carry very high-resolution imagery with little optical distortion and stability of image. The light projected onto this sheet maintains fidelity, enabling the formation of complex volumetric scenes with the use of a reynolds-calibrated emission manifold and multi-point optical projection onto the sheet.  
+By inducing **laminar flow**, the projection medium becomes stable enough to carry high-resolution imagery with little optical distortion and superior stability of image. The light projected onto this sheet maintains fidelity, enabling the formation of complex volumetric scenes with the use of a reynolds-calibrated emission manifold and multi-point optical projection onto the sheet.  
 
 #### The Architecture of Laminar Airflow Projection
 
 In **laminar airflow projection**, debuted in the [Vicarious Aria](https://www.vicariousdevices.com/), the volumetric medium exists not from any illusion of depth or a physical particle in motion, but from a controlled flow of laminar sheets of air — forming a quasi-volume in which light can be diffused and scattered. Each layer functions as an addressable depth plane, allowing the renderer to map luminance and color information through the volume.
 
-Because laminar flow is upon an **air-based, normally invisible medium**, it eliminates the need for solid reflectance surfaces or rotating parts (ie. a swept medium). This allows volumetric projection to occur directly in open space, quietly and safely — with the added advantage that the medium is *self-healing*: small disturbances are absorbed and dissipated naturally by the laminar profile.
+Because laminar flow utilizes an **air-based, optically invisible medium**, it eliminates the need for solid reflectance surfaces or rotating parts (ie. a swept medium). This allows volumetric projection to occur directly in open space, quietly and safely — with the added advantage that the medium is self-correcting: small disturbances are absorbed and dissipated naturally by the laminar profile.
 
 #### Why Laminar Flow is the Natural End State
 
@@ -113,7 +111,7 @@ By stabilizing and patterning the projection sheet itself, laminar flow provides
 
 ### uOS and the bridge between Media and Reality
 
-uOS, or *you Operating System*, serves as the spatial interpreter between existing digital content and the real world. Its purpose is not to introduce a new media format, but to make **the entire internet spatially addressable** — to allow what was once confined to a screen to be presented volumetrically in physical space.
+uOS serves as the spatial interpreter between existing digital content and the real world. Its purpose is not to introduce a new media format, but to make **the entire internet spatially addressable** — to allow what was once confined to a screen to be presented volumetrically in physical space.
 
 Historically, immersive media has failed not because of a lack of vision, but because of **format dependency**. Both the 3DTV and early VR ecosystems fragmented based on specific format standards and closed content pipelines [(MIT Technology Review, 2020)](https://www.technologyreview.com/2020/12/16/1014928/what-killed-3d-tv/). Users and creators were forced to adapt content to new technical frameworks, requiring specialized cameras, encoders, or rendering engines. The result was inevitable: friction outweighed novelty.  
 
